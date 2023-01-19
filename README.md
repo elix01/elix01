@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Elia, aka @elix01
 - 👀 I’m interested in studying new technologies, while attending computer engineering university
-- 🌱 I’m currently learning javascript framework as Angular with ionic
+- 🌱 I’m currently developing a platform with node as backend and ionic as frontend
 - 📫 You can reach me through my email: elia.ravera.lavoro@gmail.com
