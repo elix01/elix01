@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **some custom api and orm framework**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Nuxt4**
 
-- 👀 I’m interested in studying existing technologies and improve them in a custom way
+- 👀 I’m interested in studying existing technologies and improve them in a custom way to optimize the time to develop inside a structured business
 
-- 💬 Ask me about **typescript, angular, ionic**
+- 💬 Ask me about **typescript, angular, ionic, vue, nuxt4**
 
-- 📫 How to reach me **elia.ravera.lavoro@gmail.com**
+- 📫 How to reach me **elia.ravera@dedalo.solutions**
 
 - ⚡ Fun fact **I made my first website at the age of 6 years old!**
 
